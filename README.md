@@ -9,7 +9,8 @@ To create the initial scaffold, do:
 yo webapp
 </pre>
 
-Initialize git repo:
+Initialize git Repo
+---
 
 <pre>
 git init
@@ -18,8 +19,15 @@ git commit -m "Initial Commit"
 </pre>
 
 Start Server
+---
 
 <pre>
 grunt server
 </pre>
 
+Package application
+---
+
+<pre>
+grunt
+</pre>
